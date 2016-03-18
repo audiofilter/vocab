@@ -8,3 +8,6 @@ In addition you'll need the jpgs for all of the words. I've used Google Image pr
 Given the above audio and images, there is a database here that can be used as a method of testing your language ability
 When coupled with audio and images it provides a powerful way to improved your vocabulary.
 
+This app was initially setup to be able to download images and audio, although with local files, networking capability is not needed.
+
+![Screenshot](image.png "Screenshot")
