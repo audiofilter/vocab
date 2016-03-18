@@ -1,0 +1,43 @@
+verb
+transport
+time
+society
+pronoun
+preposition
+people
+number
+nature
+month
+misc
+math
+materials
+location
+job
+interjection
+home
+food 
+electronics
+direction
+day
+conjunction
+color
+clothing
+body
+beverage
+art
+animal
+adverb
+adjective
+
+
+TYPES
+
+    Unknown,
+1    Noun,
+2    Adjective,
+3    Adverb,
+4    Article,
+5    Preposition,
+6    Conjunction,
+7    Verb,
+    Other
